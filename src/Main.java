@@ -51,6 +51,6 @@ public class Main {
         var hoursOnePerson = 8;
         var totalPerson = totalHours/hoursOnePerson;
         System.out.println("Общее кол-во сотрудников="+totalPerson+"  Если сотрудников больше на 94 то всего часов ="+(totalPerson+94)*8);
-
+System.out.println("End of the task");
     }
 }
